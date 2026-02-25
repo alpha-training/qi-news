@@ -1,0 +1,1 @@
+.qi.info"No news yet";
